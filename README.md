@@ -1,4 +1,4 @@
-# Notes Taking Webapp on AWS
+# Notes Taking Webapp on AWS Utilising React and Amplify
 
 A webapp hosted on AWS that allows users to:
 - Sign up with email and password.
