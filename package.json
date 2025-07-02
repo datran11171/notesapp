@@ -10,10 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@apollo/client": "^3.13.8",
+    "@aws-amplify/react-native": "^1.1.10",
+    "@aws-amplify/ui-react": "^6.11.2",
+    "@aws-amplify/ui-react-native": "^2.5.3",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "@react-native-community/netinfo": "^11.4.1",
     "aws-amplify": "^6.15.1",
     "node": "^22.17.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-native-get-random-values": "^1.11.0",
+    "react-native-safe-area-context": "^4.14.1"
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.16.1",
